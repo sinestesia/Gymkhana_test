@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Gymkhana</string>
     <string name="title_activity_mapa">Gymkhana</string>
+
+    <string name="title_activity_portada">Portada</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
